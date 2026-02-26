@@ -1,0 +1,7 @@
+Nome completo: Ana Carolina Saire Lucas
+RA: 824127342
+Curso: engenharia de software
+semestre: 5º
+bairro: jardim das rosas
+Trabalho: não
+Objetivo: ser uma desenvolvedora fullstack
