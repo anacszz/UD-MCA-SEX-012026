@@ -1,3 +1,4 @@
+
 // PARTE 2 - OBJETO
 
 let produto = {
@@ -20,3 +21,4 @@ produto.estoque = 80;
 for (let chave in produto) {
   console.log(chave + ": " + produto[chave]);
 }
+
