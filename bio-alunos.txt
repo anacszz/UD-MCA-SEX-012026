@@ -5,3 +5,11 @@ semestre: 5º
 bairro: jardim das rosas
 Trabalho: não
 Objetivo: ser uma desenvolvedora fullstack
+
+Nome completo: Ariane Silvestre Maira
+RA: 824129529
+Curso: Engenharia de software
+semestre: 5º
+bairro: Jardim Adriana
+Trabalho: não
+Objetivo: Ser uma desenvolvedora fullstack 
