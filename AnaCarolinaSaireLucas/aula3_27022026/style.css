@@ -55,7 +55,18 @@ main {
   padding: 0 20px;
 }
 
-.card {
+.profile {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 15px auto;
+  border: 3px solid #c084fc;
+  box-shadow: 0 0 15px rgba(180, 120, 255, 0.7);
+}
+
+.card, .card-profile {
   background: rgba(25, 25, 50, 0.7);
   backdrop-filter: blur(6px);
   padding: 25px;
